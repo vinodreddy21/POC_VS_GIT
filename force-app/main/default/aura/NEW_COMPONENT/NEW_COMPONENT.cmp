@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <div class="slds-p-around_none"></div>
+	<h1>My second component to try</h1>
+    <p>This is trail</p>
+    <div>this is 2nd</div>
+    <span>This is trail2 on process</span>
+</aura:component>
