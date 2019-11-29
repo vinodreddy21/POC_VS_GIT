@@ -1,0 +1,10 @@
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+    <div class="slds-box slds-box_x-small">
+        <h1 class="red"> "Welcome to the World of Programming!!!!!!!!!!!1</h1>
+        
+      <!--  <h1 style="background-color:white; color:blak;font-size:30px;"> "this is a trail 2</h1>
+        <p style="background-color:green; color:white;font-size:20px;">This is an extra-small box.</p>-->
+        
+    </div>
+    
+</aura:component>
