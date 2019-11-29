@@ -84,5 +84,9 @@
 		<members>*</members>
 		<name>TopicsForObjects</name>
 	</types>
+<types>
+    <members>Account.phone_number1</members>
+    <name>ValidationRule</name>
+  </types>
 	<version>46.0</version>
 </Package>
